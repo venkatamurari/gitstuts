@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 Hello everyone
-=======
 Hello all
->>>>>>> origin/master
+Hello guys!!
